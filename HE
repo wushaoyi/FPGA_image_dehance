@@ -7,3 +7,4 @@ histecq是matlab自带的直方图均衡函数
 Rgb2hsi函数是将RGB转为HSI的matlab程序
 HSI色彩空间是 H色调 S色饱和度 I亮度来描述色彩
 即将色彩空间转换到HSI后，对I通道进行处理
+作用是保存图像色彩不失真
